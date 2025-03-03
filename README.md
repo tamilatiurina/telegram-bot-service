@@ -34,8 +34,8 @@ pip install -r requirements.txt
 - Set up the sheet format according to the departments and columns.
 ### 4. Set Up Environment Variables (create a .env file with the following environment variables):
 ```bash
-API_TOKEN=your_telegram_bot_api_token
-GOOGLE_SHEET_CREDENTIALS=path_to_google_credentials.json
+TOKEN=your_telegram_bot_api_token
+CREDS=path_to_google_credentials.json
 ```
 ### 5. Run the Bot:
 ```bash
