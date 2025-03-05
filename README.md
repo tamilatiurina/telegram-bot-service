@@ -22,8 +22,8 @@ This bot is designed to automate the process of submitting daily reports for var
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/daily-report-bot.git
-cd daily-report-bot
+git clone https://github.com/tamilatiurina/telegram-bot-service.git
+cd telegram-bot-service
 ```
 ### 2. Install Dependencies:
 ```bash
